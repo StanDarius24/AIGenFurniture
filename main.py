@@ -1,7 +1,7 @@
 import os
 import json
 # from furniture_design.cabinets.kitchen_cabinet import KitchenCabinet  # Import specific cabinet type
-from furniture_design.design_engine import design_furniture
+from furniture_design import design_furniture
 from manufacturing.generate_files import generate_manufacturing_files
 ''' 
 Loads customer input data from JSON files in the customer_input directory.

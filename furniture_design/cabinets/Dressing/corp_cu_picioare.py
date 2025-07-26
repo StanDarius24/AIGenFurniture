@@ -1,4 +1,3 @@
-from furniture_design.cabinets.elements.board import *
 from furniture_design.cabinets.elements.accessory import *
 from furniture_design.cabinets.cabinet import Cabinet
 

@@ -3,7 +3,7 @@ import math
 import numpy
 import tripy
 import os
-from copy import deepcopy, copy
+from copy import deepcopy
 from furniture_design.cabinets.elements.board import Board
 from stl import mesh
 

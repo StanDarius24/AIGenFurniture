@@ -1,5 +1,5 @@
 from furniture_design.cabinets.elements.accessory import Accessory
-from furniture_design.cabinets.elements.board import BoardPal, Front
+from furniture_design.cabinets.elements.board import BoardPal
 
 
 class ShelvesMixin:

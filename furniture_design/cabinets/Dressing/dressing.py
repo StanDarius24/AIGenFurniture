@@ -1,5 +1,5 @@
 from furniture_design.cabinets.elements.accessory import Accessory
-from furniture_design.cabinets.elements.board import BoardPal, Blat, Front
+from furniture_design.cabinets.elements.board import BoardPal
 from furniture_design.cabinets.cabinet import Cabinet
 
 import math

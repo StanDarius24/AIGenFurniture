@@ -1,8 +1,4 @@
-from furniture_design.order import Order
-from furniture_design.cabinets.Kitchen.kitchen import *
-from furniture_design.cabinets.Dressing.dressing import *
-from furniture_design.cabinets.elements.board import *
-from furniture_design.cabinets.elements.accessory import *
+from furniture_design import Order
 from manufacturing.generate_files import generate_manufacturing_files
 import os
 

@@ -3,8 +3,6 @@
 # from furniture_design.cabinets.Kitchen.top_corner import TopCorner
 # from furniture_design.cabinets.Dressing.corp_cu_picioare import CorpCuPicioare
 from furniture_design.order import Order
-from furniture_design.cabinets.Kitchen.kitchen import *
-from furniture_design.cabinets.Dressing.dressing import *
 
 import json
 

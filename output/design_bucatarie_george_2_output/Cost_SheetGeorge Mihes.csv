@@ -49,22 +49,6 @@ accessory,pereche glisiera 450 mm,1,pieces,pereche glisiera 450 mm,19.0
 accessory,surub 3.5x16,12,pieces,surub 3.5x16,0.42000000000000004
 accessory,surub,8,pieces,surub,1.3736
 accessory,surub PFL,20,pieces,surub PFL,0.518
-accessory,surub,8,pieces,surub,1.3736
-accessory,pereche clema prindere perete,1,pieces,pereche clema prindere perete,9.8
-accessory,sina perete,0.6,pieces,sina perete,6.06
-accessory,surub diblu perete,3,pieces,surub diblu perete,7.17
-pal,S1.lat1,0.312,sheet,Alb W962ST2,22.6406
-pal,S1.jos,0.225036,sheet,Alb W962ST2,14.01348
-pal,S1.lat2,0.312,sheet,Alb W962ST2,22.6406
-pal,S1.sus,0.225036,sheet,Alb W962ST2,14.01348
-pfl,S1.pfl,0.462496,sheet,Alb,10
-accessory,surub PFL,18,pieces,surub PFL,0.4662
-pal,S1.pol,0.21432,sheet,Alb W962ST2,16.151040000000002
-accessory,bolt polita,4,pieces,bolt polita,0.1536
-accessory,surub PFL,2,pieces,surub PFL,0.0518
-pal,S1.pol,0.21432,sheet,Alb W962ST2,16.151040000000002
-accessory,bolt polita,4,pieces,bolt polita,0.1536
-accessory,surub PFL,2,pieces,surub PFL,0.0518
 pal,C2.jos,0.7225,sheet,Alb W962ST2,41.0
 pal,C2.lat1,0.362,sheet,Alb W962ST2,22.58468
 pal,C2.lat2,0.362,sheet,Alb W962ST2,22.58468
@@ -87,6 +71,92 @@ accessory,plinta,0.7,pieces,plinta,9.4766
 accessory,sipca apa,1.7,pieces,sipca apa,17.1411
 pal,C2.colt1,0.1448,sheet,Alb W962ST2,13.32864
 pal,C2.colt2,0.1448,sheet,Alb W962ST2,8.0
+accessory,picioare,4,pieces,picioare,5.0
+accessory,clema plinta,2.0,pieces,clema plinta,1.4
+accessory,surub 3.5x16,16,pieces,surub 3.5x16,0.56
+accessory,surub blat,4,pieces,surub blat,0.156
+accessory,surub,14,pieces,surub,2.4038
+accessory,plinta,0.6,pieces,plinta,8.1228
+accessory,sipca apa,0.6,pieces,sipca apa,6.0498
+pal,C3.jos,0.3,sheet,Alb W962ST2,22.712
+pal,C3.lat,0.362,sheet,Alb W962ST2,22.58468
+pal,C3.lat,0.362,sheet,Alb W962ST2,22.58468
+pal,C3.leg1,0.0564,sheet,Alb W962ST2,7.02696
+pal,C3.leg2,0.0564,sheet,Alb W962ST2,7.02696
+pfl,C3.pfl,0.421968,sheet,Alb,9
+accessory,surub PFL,18,pieces,surub PFL,0.4662
+pal,C3.ser.left,0.0487,sheet,Alb W962ST2,4.452590000000001
+pal,C3.ser.front,0.0502,sheet,Alb W962ST2,3.79214
+pal,C3.ser.back,0.0502,sheet,Alb W962ST2,3.79214
+pal,C3.ser.right,0.0487,sheet,Alb W962ST2,4.452590000000001
+pal,C3.ser.f,0.226402,sheet,Alb W962ST2,13.0
+accessory,pereche glisiera 450 mm,1,pieces,pereche glisiera 450 mm,19.0
+accessory,surub 3.5x16,12,pieces,surub 3.5x16,0.42000000000000004
+accessory,surub,8,pieces,surub,1.3736
+accessory,surub PFL,20,pieces,surub PFL,0.518
+pal,C3.sep.h,0.282,sheet,Alb W962ST2,18.01348
+accessory,surub,4,pieces,surub,0.6868
+accessory,sipca apa,0.45,pieces,sipca apa,4.53735
+accessory,plinta,0.45,pieces,plinta,6.0921
+accessory,surub intre corpuri,10,pieces,surub intre corpuri,0.39
+front,C4_1,0.329148,m2,A34R3,101
+accessory,balama aplicata,3,pieces,balama aplicata,21.6
+accessory,amortizor,2,pieces,amortizor,15.48
+accessory,surub 3.5x16,12,pieces,surub 3.5x16,0.42000000000000004
+accessory,maner,1,pieces,maner,10.0
+accessory,picioare,6,pieces,picioare,7.5
+accessory,clema plinta,3.0,pieces,clema plinta,2.0999999999999996
+accessory,surub 3.5x16,24,pieces,surub 3.5x16,0.8400000000000001
+accessory,surub blat,4,pieces,surub blat,0.156
+accessory,surub,14,pieces,surub,2.4038
+accessory,plinta,1.0,pieces,plinta,13.538
+accessory,sipca apa,1.0,pieces,sipca apa,10.083
+pal,C5.jos,0.5,sheet,Alb W962ST2,35.14
+pal,C5.lat,0.362,sheet,Alb W962ST2,22.58468
+pal,C5.lat,0.362,sheet,Alb W962ST2,22.58468
+pal,C5.leg1,0.0964,sheet,Alb W962ST2,11.88296
+pal,C5.leg2,0.0964,sheet,Alb W962ST2,11.88296
+accessory,surub PFL,24,pieces,surub PFL,0.6215999999999999
+pal,C5.leg,0.0964,sheet,Alb W962ST2,8.44148
+accessory,picioare,2,pieces,picioare,2.5
+accessory,clema plinta,1.0,pieces,clema plinta,0.7
+accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
+accessory,surub blat,4,pieces,surub blat,0.156
+accessory,surub,14,pieces,surub,2.4038
+accessory,plinta,0.3,pieces,plinta,4.0614
+accessory,sipca apa,0.3,pieces,sipca apa,3.0249
+pal,C6.jos,0.15,sheet,Alb W962ST2,12.641
+pal,C6.lat,0.362,sheet,Alb W962ST2,22.58468
+pal,C6.lat,0.362,sheet,Alb W962ST2,22.58468
+pal,C6.leg1,0.0264,sheet,Alb W962ST2,2.88496
+pal,C6.leg2,0.0264,sheet,Alb W962ST2,2.88496
+pfl,C6.pfl,0.218448,sheet,Alb,4
+accessory,surub PFL,14,pieces,surub PFL,0.3626
+accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
+accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
+accessory,Joly300500,1,pieces,Joly300500,300.0
+pfl,C6.pfl,0.218448,sheet,Alb,4
+accessory,surub PFL,14,pieces,surub PFL,0.3626
+accessory,balama aplicata,2,pieces,balama aplicata,14.4
+accessory,amortizor,1,pieces,amortizor,7.74
+accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
+accessory,maner,1,pieces,maner,10.0
+accessory,surub,8,pieces,surub,1.3736
+accessory,pereche clema prindere perete,1,pieces,pereche clema prindere perete,9.8
+accessory,sina perete,0.6,pieces,sina perete,6.06
+accessory,surub diblu perete,3,pieces,surub diblu perete,7.17
+pal,S1.lat1,0.312,sheet,Alb W962ST2,22.6406
+pal,S1.jos,0.225036,sheet,Alb W962ST2,14.01348
+pal,S1.lat2,0.312,sheet,Alb W962ST2,22.6406
+pal,S1.sus,0.225036,sheet,Alb W962ST2,14.01348
+pfl,S1.pfl,0.462496,sheet,Alb,10
+accessory,surub PFL,18,pieces,surub PFL,0.4662
+pal,S1.pol,0.21432,sheet,Alb W962ST2,16.151040000000002
+accessory,bolt polita,4,pieces,bolt polita,0.1536
+accessory,surub PFL,2,pieces,surub PFL,0.0518
+pal,S1.pol,0.21432,sheet,Alb W962ST2,16.151040000000002
+accessory,bolt polita,4,pieces,bolt polita,0.1536
+accessory,surub PFL,2,pieces,surub PFL,0.0518
 accessory,surub,8,pieces,surub,1.3736
 accessory,pereche clema prindere perete,1,pieces,pereche clema prindere perete,9.8
 accessory,sina perete,0.3,pieces,sina perete,3.03
@@ -121,31 +191,6 @@ accessory,sina perete,0.6,pieces,sina perete,6.06
 accessory,surub diblu perete,3,pieces,surub diblu perete,7.17
 pal,S3.colt1,0.186,sheet,Alb W962ST2,15.47584
 pal,S3.colt1,0.186,sheet,Alb W962ST2,10.0
-accessory,picioare,4,pieces,picioare,5.0
-accessory,clema plinta,2.0,pieces,clema plinta,1.4
-accessory,surub 3.5x16,16,pieces,surub 3.5x16,0.56
-accessory,surub blat,4,pieces,surub blat,0.156
-accessory,surub,14,pieces,surub,2.4038
-accessory,plinta,0.6,pieces,plinta,8.1228
-accessory,sipca apa,0.6,pieces,sipca apa,6.0498
-pal,C3.jos,0.3,sheet,Alb W962ST2,22.712
-pal,C3.lat,0.362,sheet,Alb W962ST2,22.58468
-pal,C3.lat,0.362,sheet,Alb W962ST2,22.58468
-pal,C3.leg1,0.0564,sheet,Alb W962ST2,7.02696
-pal,C3.leg2,0.0564,sheet,Alb W962ST2,7.02696
-pfl,C3.pfl,0.421968,sheet,Alb,9
-accessory,surub PFL,18,pieces,surub PFL,0.4662
-pal,C3.ser.left,0.0487,sheet,Alb W962ST2,4.452590000000001
-pal,C3.ser.front,0.0502,sheet,Alb W962ST2,3.79214
-pal,C3.ser.back,0.0502,sheet,Alb W962ST2,3.79214
-pal,C3.ser.right,0.0487,sheet,Alb W962ST2,4.452590000000001
-pal,C3.ser.f,0.226402,sheet,Alb W962ST2,13.0
-accessory,pereche glisiera 450 mm,1,pieces,pereche glisiera 450 mm,19.0
-accessory,surub 3.5x16,12,pieces,surub 3.5x16,0.42000000000000004
-accessory,surub,8,pieces,surub,1.3736
-accessory,surub PFL,20,pieces,surub PFL,0.518
-pal,C3.sep.h,0.282,sheet,Alb W962ST2,18.01348
-accessory,surub,4,pieces,surub,0.6868
 accessory,surub,8,pieces,surub,1.3736
 accessory,pereche clema prindere perete,1,pieces,pereche clema prindere perete,9.8
 accessory,sina perete,0.212,pieces,sina perete,2.1412
@@ -165,51 +210,6 @@ accessory,surub PFL,2,pieces,surub PFL,0.0518
 pal,S4.pol,0.06688,sheet,Alb W962ST2,4.2953600000000005
 accessory,bolt polita,4,pieces,bolt polita,0.1536
 accessory,surub PFL,2,pieces,surub PFL,0.0518
-accessory,sipca apa,0.45,pieces,sipca apa,4.53735
-accessory,plinta,0.45,pieces,plinta,6.0921
-accessory,surub intre corpuri,10,pieces,surub intre corpuri,0.39
-front,C4_1,0.329148,m2,A34R3,101
-accessory,balama aplicata,3,pieces,balama aplicata,21.6
-accessory,amortizor,2,pieces,amortizor,15.48
-accessory,surub 3.5x16,12,pieces,surub 3.5x16,0.42000000000000004
-accessory,maner,1,pieces,maner,10.0
-accessory,picioare,6,pieces,picioare,7.5
-accessory,clema plinta,3.0,pieces,clema plinta,2.0999999999999996
-accessory,surub 3.5x16,24,pieces,surub 3.5x16,0.8400000000000001
-accessory,surub blat,4,pieces,surub blat,0.156
-accessory,surub,14,pieces,surub,2.4038
-accessory,plinta,1.0,pieces,plinta,13.538
-accessory,sipca apa,1.0,pieces,sipca apa,10.083
-pal,C5.jos,0.5,sheet,Alb W962ST2,35.14
-pal,C5.lat,0.362,sheet,Alb W962ST2,22.58468
-pal,C5.lat,0.362,sheet,Alb W962ST2,22.58468
-pal,C5.leg1,0.0964,sheet,Alb W962ST2,11.88296
-pal,C5.leg2,0.0964,sheet,Alb W962ST2,11.88296
-accessory,surub PFL,24,pieces,surub PFL,0.6215999999999999
-pal,C5.leg,0.0964,sheet,Alb W962ST2,8.44148
-accessory,picioare,2,pieces,picioare,2.5
-accessory,clema plinta,1.0,pieces,clema plinta,0.7
-accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
-accessory,surub blat,4,pieces,surub blat,0.156
-accessory,surub,14,pieces,surub,2.4038
-accessory,plinta,0.2,pieces,plinta,2.7076000000000002
-accessory,sipca apa,0.2,pieces,sipca apa,2.0166
-pal,C6.jos,0.1,sheet,Alb W962ST2,9.283999999999999
-pal,C6.lat,0.362,sheet,Alb W962ST2,22.58468
-pal,C6.lat,0.362,sheet,Alb W962ST2,22.58468
-pal,C6.leg1,0.0164,sheet,Alb W962ST2,1.17096
-pal,C6.leg2,0.0164,sheet,Alb W962ST2,1.17096
-pfl,C6.pfl,0.144648,sheet,Alb,3
-accessory,surub PFL,12,pieces,surub PFL,0.31079999999999997
-accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
-accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
-accessory,Joly240500,1,pieces,Joly240500,250.0
-pfl,C6.pfl,0.144648,sheet,Alb,3
-accessory,surub PFL,12,pieces,surub PFL,0.31079999999999997
-accessory,balama aplicata,2,pieces,balama aplicata,14.4
-accessory,amortizor,1,pieces,amortizor,7.74
-accessory,surub 3.5x16,8,pieces,surub 3.5x16,0.28
-accessory,maner,1,pieces,maner,10.0
 accessory,surub,8,pieces,surub,1.3736
 accessory,pereche clema prindere perete,1,pieces,pereche clema prindere perete,9.8
 accessory,sina perete,0.6,pieces,sina perete,6.06
