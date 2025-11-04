@@ -329,6 +329,8 @@ def get_cost_manopera(order):
     boards = order.get_boards_number()
     h_proiect = order.h_proiect
     print()
+    if h_proiect is None:
+        h_proiect = 1
     pret_manop = math.ceil((h_proiect + (boards * 0.17) + electrocasnice * 2 + get_m_blat(order) * 0.5) * h_rate*(1 + IMPOZIT))
     pret_manop_discount = pret_manop * (100 - discount) / 100
     return [pret_manop, pret_manop_discount]
